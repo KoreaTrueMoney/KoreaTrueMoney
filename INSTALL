@@ -1,0 +1,9 @@
+Building KoreaTrueMoney
+
+See doc/readme-qt.rst for instructions on building KoreaTrueMoney QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of KoreaTrueMoney.
+
+See doc/build-*.txt for instructions on building koreatruemoneyd,
+the intended-for-services, no-graphical-interface, reference
+implementation of KoreaTrueMoney.
